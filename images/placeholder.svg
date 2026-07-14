@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Image placeholder">
+  <rect width="800" height="500" fill="#e9edf1"/>
+  <rect x="8" y="8" width="784" height="484" fill="none" stroke="#b7c0cb" stroke-width="2" stroke-dasharray="10 8"/>
+  <g fill="#8a97a6" font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="400" y="240" font-size="28" font-weight="600">IMAGE PLACEHOLDER</text>
+    <text x="400" y="275" font-size="16">Replace this file&#8217;s reference in index.html</text>
+    <text x="400" y="298" font-size="16">with your own photo/drawing (e.g. images/nevados-tracker-1.jpg)</text>
+  </g>
+</svg>
